@@ -6,8 +6,7 @@ Projeto desenvolvido na disciplina **Experiência Criativa – Inovando em Proce
 Analisar a maturidade dos processos de software de uma empresa de F, compreender seu funcionamento atual e propor melhorias e automações alinhadas a modelos de qualidade como o MPS.BR, visando maior eficiência, organização e qualidade no desenvolvimento de software.
 
 ## 👥 Integrantes
-- Eduardo Monteiro de Barros Hinz  
-- Jean Praes Moura  
+- Eduardo Monteiro de Barros Hinz    
 - João Gabriel de Lima Coltre  
 - Leonardo Cajuela Grattao  
 - Stefany Carlos de Oliveira
